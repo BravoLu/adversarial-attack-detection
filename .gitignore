@@ -1,0 +1,5 @@
+checkpoints/*
+visualization/*
+demo/*
+__pycache__
+
